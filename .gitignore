@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+*/node_modules/
+venv/
+*/venv/
+env/
+*/env/
+.env
+*/.env
+*.env.local
+
+# Python cache & bytecode
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*/.pytest_cache/
+
+# Databases & local sqlite
+*.db
+*.sqlite3
+
+# Frontend build outputs
+dist/
+*/dist/
+build/
+*/build/
+.oxlintrc.json
+*.tsbuildinfo
+
+# IDE & Editor artifacts
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+.snapshots/
+
+# OS / temporary files
+*.log

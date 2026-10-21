@@ -1,0 +1,11 @@
+course_code,faculty_email,rating,comment,is_anonymous
+CS101,dr.smith@feedbackiq.edu,5,"Dr. Smith's teaching style is interactive and extremely clear. Best course ever!",false
+CS202,dr.smith@feedbackiq.edu,4,"Good database course. The practical SQL exercises were very helpful.",true
+CS303,dr.johnson@feedbackiq.edu,2,"Machine learning topics were rushed. Exams were unexpectedly tough.",false
+CS404,prof.williams@feedbackiq.edu,5,"Excellent web security labs. Hands-on experience with modern tools.",false
+AI101,prof.davis@feedbackiq.edu,3,"Decent course content, but homework deadlines were tight.",true
+AI202,dr.johnson@feedbackiq.edu,5,"NLP modules and transformer lectures were top quality!",false
+IT301,prof.williams@feedbackiq.edu,4,"Full-stack web project gave great experience with React and APIs.",false
+IT402,dr.brown@feedbackiq.edu,1,"Prof brown was consistently late to class and emails went unanswered.",true
+CS101,dr.smith@feedbackiq.edu,5,"Data structures were explained with intuitive animations and diagrams.",false
+CS303,dr.johnson@feedbackiq.edu,4,"Great insight into deep learning models and PyTorch.",false
